@@ -1,7 +1,10 @@
 # Super_Resolution_FOCCUS
 Super Resolution of sea surface height for the FOCCUS project.
 
-![My Animation](animation.gif)
+| Super-Resolution | Evolution in time  |
+|------------------------|--------------------------|
+| ![](animation_SR.gif)     |  ![](animation.gif)     |
+
 
 The goal is to increase the resolution of the DUACS data set consisting of full, low resolution fields of SSH with a neural network using the new SWOT SSH fields consisting of sparse, high resolution fields of SSH.
 ![My Image](./duacs_vs_swot.png)
